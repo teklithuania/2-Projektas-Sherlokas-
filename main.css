@@ -7,19 +7,19 @@ body {
     width: 600px;
     margin-top: 130px;
     margin-left: 500px;
-    background-color: yellow;
+    background-color: ;
 }
 
 #kaire {
     display: inline-block;
-    background-color: pink;
+    background-color:;
     width: 50%;
     float: left;
 }
 
 #desine {
     display: inline-block;
-    background-color: green;
+    background-color: ;
     width: 50%;
     float: left;
     text-align: center;
@@ -46,6 +46,7 @@ a {
     background-color: #696F89;
     padding: 10px;
     color: white;
+text-decoration: none;
 }
 #antras {
     font-size: 14px;
